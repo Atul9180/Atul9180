@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Atul Patel</h1>
-<h3 align="center">A passionate backend developer from Lucknow</h3>
+<h3 align="center">A passionate MERN Stack developer from Lucknow</h3>
 <img align="right" alt="coding" width="40%" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Atul9180&label=Profile%20views&color=0e75b6&style=flat" alt="atulpatel" /> </p>
 
 - 🔭 I’ve worked on **some web development projects**
 
-- 🌱 I’m currently learning **JavaScript , NodeJs , Aws , MySql , MongoDb , C++ and data structure and algorithms**
+- 🌱 I’m currently learning **JavaScript ,React.js, NextJs, Node.js , Aws , MySql , MongoDb , C++ and data structure and algorithms**
 
-- 💬 I'll be happy to talk and collabrate on projects relate to  **JavaScript , NodeJs, Socket.io etc**
+- 💬 I'll be happy to talk and collabrate on projects relate to  **JavaScript ,React.js, NodeJs, Socket.io etc**
 
 - 📫 How to reach me **patlatulpatel@gmail.com**
 
